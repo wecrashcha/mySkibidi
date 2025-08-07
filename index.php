@@ -11,4 +11,7 @@ class mySkibidi {
 $skibidi = new mySkibidi();
 
 $skibidi->SkibidiGyatt();
+
+#kode ini telah diedit dengan mySkibidi
+//yahahaha hayyuk
 ?>
